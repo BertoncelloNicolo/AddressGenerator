@@ -1,0 +1,8 @@
+C:\Users\berto\OneDrive\Desktop\scuola\tpsi\GeneraIP\bin\Debug\GeneraIP.exe.config
+C:\Users\berto\OneDrive\Desktop\scuola\tpsi\GeneraIP\bin\Debug\GeneraIP.exe
+C:\Users\berto\OneDrive\Desktop\scuola\tpsi\GeneraIP\bin\Debug\GeneraIP.pdb
+C:\Users\berto\OneDrive\Desktop\scuola\tpsi\GeneraIP\obj\Debug\GeneraIP.csproj.AssemblyReference.cache
+C:\Users\berto\OneDrive\Desktop\scuola\tpsi\GeneraIP\obj\Debug\GeneraIP.csproj.SuggestedBindingRedirects.cache
+C:\Users\berto\OneDrive\Desktop\scuola\tpsi\GeneraIP\obj\Debug\GeneraIP.csproj.CoreCompileInputs.cache
+C:\Users\berto\OneDrive\Desktop\scuola\tpsi\GeneraIP\obj\Debug\GeneraIP.exe
+C:\Users\berto\OneDrive\Desktop\scuola\tpsi\GeneraIP\obj\Debug\GeneraIP.pdb
